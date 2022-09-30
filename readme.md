@@ -1,6 +1,5 @@
 # Clean Homework 4
-# SQ Tao 9/29/2022
-
+Thank you in advance for the time and effort reviewing my code. --SQ
 
 ```python
 import requests
